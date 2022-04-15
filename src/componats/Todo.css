@@ -1,0 +1,26 @@
+.table{
+    width: 50%;
+    margin: 15px;
+    border-collapse: collapse;
+    border: 1px solid black;
+
+}  
+td,td{
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+
+}
+.parent{
+  
+    display: flex;
+}
+.active-btn{
+    background-color:gainsboro;
+    color: black;
+    border-radius: 2px;
+}
+
+.todo-container{
+    height: 100vh;
+    overflow: scroll;
+}

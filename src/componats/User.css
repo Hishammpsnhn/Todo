@@ -1,0 +1,11 @@
+.user-parent{
+
+    width:50vw;
+}
+.user-child{
+    border: 1px solid black;
+}
+.users{
+    border-bottom: 1px  solid black;
+
+}
